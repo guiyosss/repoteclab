@@ -1,0 +1,10 @@
+{
+    "OrderID":132,
+    "Adress":"Direccion 123",
+    "Status": "good",
+    "Articles":{
+        "Name":"articulo",
+        "Quantity":321,
+        "Dangerous":true}
+
+}
